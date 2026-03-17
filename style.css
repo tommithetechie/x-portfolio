@@ -1,0 +1,84 @@
+body {
+  background-color: #000033;
+  color: #00ff99;
+  background-image: url('https://www.transparenttextures.com/patterns/stardust.png');
+}
+
+a { color: #ffff00; }
+a:visited { color: #ff66cc; }
+a:active { color: #ffffff; }
+a:hover { color: #ffff00; text-decoration: underline; }
+
+.font-comic { font-family: "Comic Sans MS", cursive, sans-serif; }
+.font-courier { font-family: "Courier New", Courier, monospace; }
+.font-impact { font-family: Impact, "Arial Black", sans-serif; }
+.font-verdana { font-family: Verdana, sans-serif; }
+.font-arial-black { font-family: "Arial Black", Gadget, sans-serif; }
+
+.fs-7-retro { font-size: 3rem; }
+.fs-6-retro { font-size: 2rem; }
+.fs-5-retro { font-size: 1.5rem; }
+.fs-4-retro { font-size: 1.25rem; }
+.fs-3-retro { font-size: 1rem; }
+
+.text-retro-yellow { color: #ffff00; }
+.text-retro-cyan { color: #00ffff; }
+.text-retro-pink { color: #ff66ff; }
+.text-retro-light-yellow { color: #ffff99; }
+.text-retro-light-pink { color: #ffccff; }
+.text-retro-light-cyan { color: #99ffcc; }
+.text-retro-grey { color: #cccccc; }
+.text-retro-gold { color: #ffcc00; }
+
+.retro-container {
+  max-width: 920px;
+  background-color: #001144;
+  border: 4px outset #cccccc;
+  padding: 4px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.panel-top, .panel-bottom {
+  background-color: #220044;
+  border: 2px inset #cccccc;
+  padding: 6px;
+  margin-bottom: 4px;
+}
+
+.panel-bottom {
+  margin-bottom: 0;
+  margin-top: 4px;
+}
+
+.col-side {
+  width: 180px;
+  background-color: #111133;
+  border: 2px inset #cccccc;
+  padding: 10px;
+}
+
+.col-main {
+  width: 552px;
+  background-color: #000022;
+  border: 2px inset #cccccc;
+  padding: 8px;
+}
+
+.retro-box {
+  background-color: #001a44;
+  border: 2px outset #cccccc;
+  margin-bottom: 16px;
+}
+.retro-box-header {
+  background-color: #330000;
+  border-bottom: 2px inset #cccccc;
+  padding: 8px;
+}
+.retro-box-body {
+  padding: 8px;
+}
+
+.border-img {
+  border: 6px outset #cccccc;
+}
