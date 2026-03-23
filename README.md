@@ -1,32 +1,13 @@
-# Retro Y2K Portfolio Project
+# X Portfolio
 
-Welcome to my Retro Y2K Portfolio project! This portfolio celebrates the unique aesthetics and vibes of the Year 2000, combining nostalgia with modern web design practices.
+This is a personal portfolio used to host fun projects on X.
 
-## Project Overview
-This project showcases a collection of web pages and designs inspired by the early 2000s internet culture. It's a tribute to the colorful graphics, quirky fonts, and experimental layouts that defined the era.
+## Projects
 
-## Features
-- **Vibrant Color Palette**: Using bright and eye-catching colors reminiscent of the Y2K style.
-- **Retro Fonts**: Featuring nostalgic typography to bring back the early web look.
-- **Interactive Elements**: Engaging animations and user interactions that pay homage to the web design trends of the time.
+- Project 1
+- Project 2
+- Project 3
 
-## Technologies Used
-- HTML
-- CSS
-- JavaScript
+## Contact
 
-## Getting Started
-To view the portfolio, you can clone this repository and open the index.html file in your browser. 
-
-```bash
-git clone https://github.com/tommithetechie/x-portfolio.git
-cd x-portfolio
-open index.html
-```
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-- Inspired by the creativity of early web designers
-- Special thanks to the online communities that keep the retro web spirit alive!
+Feel free to reach out on my social media!
